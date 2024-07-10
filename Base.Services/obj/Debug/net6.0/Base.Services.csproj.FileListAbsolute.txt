@@ -1,0 +1,30 @@
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.deps.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.CopyComplete
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\refint\Base.Services.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Services\obj\Debug\net6.0\ref\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.deps.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\refint\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Services\obj\Debug\net6.0\ref\Base.Services.dll

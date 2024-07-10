@@ -1,0 +1,57 @@
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.deps.json
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.runtimeconfig.json
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CopyComplete
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\refint\Base.DataAccess.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.genruntimeconfig.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.DataAccess\obj\Debug\net6.0\ref\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.deps.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.runtimeconfig.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\refint\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.genruntimeconfig.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\ref\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.deps.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.runtimeconfig.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\refint\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\Base.DataAccess.genruntimeconfig.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.DataAccess\obj\Debug\net6.0\ref\Base.DataAccess.dll

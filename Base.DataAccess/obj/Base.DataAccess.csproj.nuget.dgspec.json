@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.DataAccess\\Base.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\Base.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\Base.Abstraction.csproj",
+        "projectName": "Base.Abstraction",
+        "projectPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\Base.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Jairo Sanabria\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jairo Sanabria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.DataAccess\\Base.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.DataAccess\\Base.DataAccess.csproj",
+        "projectName": "Base.DataAccess",
+        "projectPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.DataAccess\\Base.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Jairo Sanabria\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jairo Sanabria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\Base.Entity.csproj": {
+                "projectPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\Base.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\Base.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\Base.Entity.csproj",
+        "projectName": "Base.Entity",
+        "projectPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\Base.Entity.csproj",
+        "packagesPath": "C:\\Users\\Jairo Sanabria\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jairo Sanabria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\Base.Abstraction.csproj": {
+                "projectPath": "D:\\Repositorio de practica front-back\\Prueba Ingeneo\\Base.Rest\\Base.Abstraction\\Base.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

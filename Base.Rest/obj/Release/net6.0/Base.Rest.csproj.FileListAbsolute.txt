@@ -1,0 +1,190 @@
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\appsettings.Development.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\appsettings.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.exe
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.deps.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.runtimeconfig.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Humanizer.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Repository.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Repository.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.MvcApplicationPartsAssemblyInfo.cs
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.Base.Rest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.build.Base.Rest.props
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Base.Rest.props
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Base.Rest.props
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.pack.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.build.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.development.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\scopedcss\bundle\Base.Rest.styles.css
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.CopyComplete
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\refint\Base.Rest.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.genruntimeconfig.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.Rest\obj\Release\net6.0\ref\Base.Rest.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\appsettings.Development.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\appsettings.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.exe
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.deps.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.runtimeconfig.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Rest.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Humanizer.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Repository.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Repository.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\bin\Release\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.MvcApplicationPartsAssemblyInfo.cs
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.Base.Rest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.build.Base.Rest.props
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Base.Rest.props
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Base.Rest.props
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.pack.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.build.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\staticwebassets.development.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\scopedcss\bundle\Base.Rest.styles.css
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\refint\Base.Rest.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\Base.Rest.genruntimeconfig.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.Rest\obj\Release\net6.0\ref\Base.Rest.dll

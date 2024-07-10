@@ -1,0 +1,69 @@
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.deps.json
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.AssemblyReference.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfoInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfo.cs
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CopyComplete
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\refint\Base.BAL.dll
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.pdb
+C:\Users\Jairo Sanabria\source\repos\Base.Rest\Base.BAL\obj\Debug\net6.0\ref\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.deps.json
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\refint\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\ref\Base.BAL.dll
+D:\Repositorio de practica front-back\Rest-API\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.deps.json
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Abstraction.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Entity.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Repository.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.Services.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\bin\Debug\net6.0\Base.DataAccess.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.AssemblyReference.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfoInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.AssemblyInfo.cs
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CoreCompileInputs.cache
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.csproj.CopyComplete
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\refint\Base.BAL.dll
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\Base.BAL.pdb
+D:\Repositorio de practica front-back\Prueba Ingeneo\Base.Rest\Base.BAL\obj\Debug\net6.0\ref\Base.BAL.dll
